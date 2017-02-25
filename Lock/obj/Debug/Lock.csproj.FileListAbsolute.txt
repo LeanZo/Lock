@@ -1,0 +1,6 @@
+C:\Users\LeanZo\Documents\GitHub\Lock\Lock\bin\Debug\Lock.exe.config
+C:\Users\LeanZo\Documents\GitHub\Lock\Lock\bin\Debug\Lock.exe
+C:\Users\LeanZo\Documents\GitHub\Lock\Lock\bin\Debug\Lock.pdb
+C:\Users\LeanZo\Documents\GitHub\Lock\Lock\obj\Debug\Lock.csprojResolveAssemblyReference.cache
+C:\Users\LeanZo\Documents\GitHub\Lock\Lock\obj\Debug\Lock.exe
+C:\Users\LeanZo\Documents\GitHub\Lock\Lock\obj\Debug\Lock.pdb
